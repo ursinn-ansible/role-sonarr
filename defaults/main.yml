@@ -1,0 +1,10 @@
+---
+role_sonarr_image: 'lscr.io/linuxserver/sonarr'
+role_sonarr_container: 'sonarr'
+role_sonarr_puid: '1000'
+role_sonarr_pgid: '1000'
+role_sonarr_tz: 'Europe/Zurich'
+role_sonarr_dir: '/opt/app-sonarr'
+role_sonarr_network: 'app-network'
+
+role_sonarr_media_dir: '/opt/media'
